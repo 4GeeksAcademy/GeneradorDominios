@@ -1,11 +1,27 @@
-/* eslint-disable */
-import "bootstrap";
-import "./style.css";
-
-import "./assets/img/rigo-baby.jpg";
-import "./assets/img/4geeks.ico";
+let pronoun = ["the", "our", "this", "your", "my", "her", "his", "those"];
+let adj = [
+  "great",
+  "big",
+  "most",
+  "little",
+  "colorfull",
+  "fantastic",
+  "magic",
+  "prettier"
+];
+let noun = [
+  "jogger",
+  "racoon",
+  "dog",
+  "cat",
+  "person",
+  "sheet",
+  "thing",
+  "name",
+  "bed"
+];
+let domain = [".com", ".es", ".net", ".org", ".co"];
 
 window.onload = function() {
   //write your code here
-  console.log("Hello Rigo from the console!");
 };
